@@ -6,4 +6,5 @@ Simply run this code on your Arduino after making appropriate connections and th
 
 ## Schematics
 
-![tsop_ir_receive_uno](https://github.com/Tombstone2K/Get-IR-Codes-Arduino/assets/74809929/8205cceb-b777-4ad5-adc9-f44eb6b99029)
+![tsop_ir_receive_uno](https://github.com/Tombstone2K/Get-IR-Codes-Arduino/assets/74809929/8eaef7eb-e29c-4187-ac11-b6846ebd2835)
+
